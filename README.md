@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Pritam Kumar 👋
 
-<!--
-**Pritamkumarf7/Pritamkumarf7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- MCA Student at SRM University
+- Cloud & Networking Trainee
+- Learning AWS Cloud, Linux & Windows Server
+- Interested in System Administration and Network Engineering
 
-Here are some ideas to get you started:
+## Skills
+- Windows Server
+- Active Directory
+- AWS Cloud
+- Linux
+- Networking
+- Routing & Switching
+- Power BI
+- Python
+- C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Laptop Request Catalog Item
+- Personal Portfolio Website
+- Cloud Resume Builder
+
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/pritam-kumar-f-035215210
