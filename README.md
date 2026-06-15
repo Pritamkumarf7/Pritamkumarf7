@@ -23,4 +23,4 @@
 - Cloud Resume Builder
 
 ## Connect With Me
-- LinkedIn: https://www.linkedin.com/in/pritam-kumar-f-035215210
+- LinkedIn: [https://www.linkedin.com/in/pritam-kumar-f-035215210](https://www.linkedin.com/in/pritamkumarf7/)
